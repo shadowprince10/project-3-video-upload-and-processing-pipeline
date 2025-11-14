@@ -1,0 +1,27 @@
+# Compiled binaries and object files
+*.exe
+*.dll
+*.so
+*.dylib
+*.o 
+*.a 
+
+# Testing files 
+*.test 
+*.out 
+
+# Go Module Caches & Vendor folder
+/vendor 
+/pkg 
+
+# Executable binary created by go build
+project-3-video-upload-and-processing-pipeline
+
+# Environment variables 
+.env 
+.env.local
+
+# Editor/DS specific files
+.vscode/
+.DS_Store
+*~
